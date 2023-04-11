@@ -1,2 +1,4 @@
+# TO INSTALL REQUIREMENT YOU JUST USE THIS COMMAND "(sudo) pip install -r requirements.txt"
 pytube
 validators
+moviepy
